@@ -2,7 +2,7 @@ name: "Hikari's blog"
 description: "Hikari的个人博客"
 
 avatar: https://s3.bmp.ovh/imgs/2024/07/23/175d536ad95ea045.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+favicon: 
 
 navigation:
   - name: 首页
