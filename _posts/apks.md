@@ -1,0 +1,19 @@
+# 一些软件安装包
+
+Minecraft 1.21.2.02 [下载](https://www.123pan.com/s/9HM9-USv7A.html)
+
+像素联机 [下载](https://www.123pan.com/s/GhIWjv-Edgw.html)
+
+Edge [下载](https://www.123pan.com/s/GhIWjv-Qdgw.html)
+
+Fake Location（虚假定位） [下载](https://www.123pan.com/s/GhIWjv-9dgw.html)
+
+MT管理器 [下载](https://www.123pan.com/s/GhIWjv-Adgw.html)
+
+Fold Craft Launcher（Minecraft Java版启动器） [下载](https://www.123pan.com/s/GhIWjv-Hdgw.html)
+
+一个木函 [下载](https://www.123pan.com/s/GhIWjv-hdgw.html)
+
+自动点击器 [下载](https://www.123pan.com/s/GhIWjv-3dgw.html)
+
+![IMG_20240810_134132.jpg](https://pic.imge.cc/2024/08/10/66b6fda52386b.jpg)
